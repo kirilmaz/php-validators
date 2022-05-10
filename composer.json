@@ -1,0 +1,19 @@
+{
+    "name": "kirilmaz/validators",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kirilmaz\\Validators\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kenan Kirilmaz",
+            "email": "kenan@kirilmaz.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
